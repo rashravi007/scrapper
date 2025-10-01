@@ -1,0 +1,24 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "cheerio": "^1.1.2",
+    "fastest-levenshtein": "^1.0.16",
+    "framer-motion": "^12.23.22",
+    "lucide-react": "^0.544.0",
+    "p-retry": "^7.0.0",
+    "puppeteer": "^24.22.3"
+  },
+  "devDependencies": {
+    "playwright": "^1.55.1"
+  }
+}
